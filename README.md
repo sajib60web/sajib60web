@@ -1,8 +1,8 @@
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+ 
+ <h1>Hi There, I am <a  href="https://techytushar.github.io/">Tushar Mittal</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
