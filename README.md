@@ -1,5 +1,12 @@
 ### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
+
 I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
 **My Reseach Interest**:
