@@ -4,7 +4,7 @@
  
  <h1>Hi There, I am <a  href="https://techytushar.github.io/">Tushar Mittal</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I'm a **Machine Learning Engineer**, graduated in **2020** from **Uttar Pradesh Technical University** in **Computer Science** stream. My day to day work revolves around building Machine Learning models for various interseting problems and deploying them to production, at scale. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.
 
 **My Reseach Interest**:
 - Outlying Aspect Mining
