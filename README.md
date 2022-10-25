@@ -19,8 +19,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Cloud**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|<img title="DigitalOcean" alt="DigitalOcean" width="40px" src="https://user-images.githubusercontent.com/37639789/192434868-d66cd243-5135-4acb-97f9-febbb25bb8d0.png">
-|--|--|
+<img title="DigitalOcean" alt="DigitalOcean" width="40px" src="https://user-images.githubusercontent.com/37639789/192434868-d66cd243-5135-4acb-97f9-febbb25bb8d0.png">
+|--|
 
 **Databases**
 
