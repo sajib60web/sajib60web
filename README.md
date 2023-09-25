@@ -13,9 +13,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="Laravel" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png">|<img title="CodeIgniter" alt="CodeIgniter" width="40px" src="https://www.svgrepo.com/show/303425/codeigniter-logo.svg">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">
+<img title="Laravel" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png">|<img title="CodeIgniter" alt="CodeIgniter" width="40px" src="https://www.svgrepo.com/show/303425/codeigniter-logo.svg">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="Vue JS" alt="Vue Js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">
 |--|--|--|--|
-<img title="Vue JS" alt="Vue Js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">|<img title="React Js" alt="React Js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
+<img title="React Js" alt="React Js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">
 
 **Cloud**
 <img title="DigitalOcean" alt="DigitalOcean" width="40px" src="https://user-images.githubusercontent.com/37639789/192434868-d66cd243-5135-4acb-97f9-febbb25bb8d0.png">
