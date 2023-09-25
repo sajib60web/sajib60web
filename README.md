@@ -49,5 +49,5 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/sajib60web/capsule-render -->
  </p>
