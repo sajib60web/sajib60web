@@ -1,6 +1,6 @@
 <h1>Hi There, I am <a  href="https://trickssoft.com/">Sajib Kumar Barai</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Engineer**, graduated in **2022** from **European University of Bangladesh** in **Computer Science Engineering** stream.
+I'm a **Software Engineer**, graduated in **2023** from **European University of Bangladesh** in **Computer Science Engineering**.
 
 ## Skill :muscle:
 
